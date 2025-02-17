@@ -1,0 +1,4 @@
+- [Constant evaluation](https://doc.rust-lang.org/reference/const_eval.html)
+- https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html#shadowing
+  - Shadowing is often used when you want to convert a value from one type to another type.
+  - A variable cannot be assigned to a value of a different type than its original type
