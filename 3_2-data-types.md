@@ -1,0 +1,7 @@
+- Signed numbers are stored using [two's complement](https://en.wikipedia.org/wiki/Two%27s_complement) representation.
+- `isize` and `usize` types depend on the architecture of the computer.
+- Integer types default to `i32`. Float types default to `f64`. The `f32` type is a single-precision float, and `f64` has double precision.
+- If overflow occurs, Rust performs `two's complement wrapping`.
+- We specify `char` literals with single quotes, as opposed to string literals, which use double quotes.
+- The tuple without any values has a special name, `unit`. This value and its corresponding type are both written `()` and represent an empty value or an empty return type. Expressions implicitly return the `unit` value if they don’t return any other value.
+- Arrays allocate data on the `stack`

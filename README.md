@@ -1,6 +1,7 @@
 # Chapters 
 
 - [3.1. Variables and mutability](./3_1-variables-and-mutability.md)
+- [3.2. Data types](./3_2-data-types.md)
 
 # Crates 
 
@@ -17,3 +18,4 @@
   - `file://$HOME/.rustup/toolchains/nightly-x86_64-apple-darwin/share/doc/rust/html/index.html` (Mac)
 - https://doc.rust-lang.org/std/prelude/index.html
 - [Reserved keywords](https://doc.rust-lang.org/book/appendix-01-keywords.html)
+- [Operators and symbols](https://doc.rust-lang.org/book/appendix-02-operators.html)
